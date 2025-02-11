@@ -11,8 +11,8 @@
 - :technologist: Me encanta usar el software como solución para cada `problema`.
 - :student: Actualmente estoy aprendiendo `Ciencias de la Computación` e `Ingeniería de Software`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :thinking: Estoy abierto a una nueva `oportunidad laboral`, este es [MI CURRÍCULUM](#).
-- :boom: Puedes visitar [MI SITIO WEB](#).
+- :thinking: Estoy abierto a una nueva `oportunidad laboral`, este es [MI CURRÍCULUM](https://www.canva.com/design/DAF1-L9dhx0/y_l-XmlIksaUTo6iHBp69Q/view?utm_content=DAF1-L9dhx0&utm_campaign=designshare&utm_medium=link&utm_source=editor#1).
+- :boom: Puedes visitar [MI SITIO WEB](https://relly27.github.io/portafolio/).
 <br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>  Mis Habilidades
